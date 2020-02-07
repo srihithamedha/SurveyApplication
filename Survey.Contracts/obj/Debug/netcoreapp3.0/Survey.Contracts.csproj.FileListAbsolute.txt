@@ -1,0 +1,11 @@
+F:\training\Survey Application\SurveyApplication\Survey.Contracts\bin\Debug\netcoreapp3.0\Survey.Contracts.deps.json
+F:\training\Survey Application\SurveyApplication\Survey.Contracts\bin\Debug\netcoreapp3.0\Survey.Contracts.dll
+F:\training\Survey Application\SurveyApplication\Survey.Contracts\bin\Debug\netcoreapp3.0\Survey.Contracts.pdb
+F:\training\Survey Application\SurveyApplication\Survey.Contracts\bin\Debug\netcoreapp3.0\Survey.Concerns.dll
+F:\training\Survey Application\SurveyApplication\Survey.Contracts\bin\Debug\netcoreapp3.0\Survey.Concerns.pdb
+F:\training\Survey Application\SurveyApplication\Survey.Contracts\obj\Debug\netcoreapp3.0\Survey.Contracts.csprojAssemblyReference.cache
+F:\training\Survey Application\SurveyApplication\Survey.Contracts\obj\Debug\netcoreapp3.0\Survey.Contracts.AssemblyInfoInputs.cache
+F:\training\Survey Application\SurveyApplication\Survey.Contracts\obj\Debug\netcoreapp3.0\Survey.Contracts.AssemblyInfo.cs
+F:\training\Survey Application\SurveyApplication\Survey.Contracts\obj\Debug\netcoreapp3.0\Survey.Contracts.csproj.CopyComplete
+F:\training\Survey Application\SurveyApplication\Survey.Contracts\obj\Debug\netcoreapp3.0\Survey.Contracts.dll
+F:\training\Survey Application\SurveyApplication\Survey.Contracts\obj\Debug\netcoreapp3.0\Survey.Contracts.pdb

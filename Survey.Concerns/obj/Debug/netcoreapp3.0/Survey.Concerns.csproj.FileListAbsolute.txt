@@ -1,0 +1,8 @@
+F:\training\Survey Application\SurveyApplication\Survey.Concerns\bin\Debug\netcoreapp3.0\Survey.Concerns.deps.json
+F:\training\Survey Application\SurveyApplication\Survey.Concerns\bin\Debug\netcoreapp3.0\Survey.Concerns.dll
+F:\training\Survey Application\SurveyApplication\Survey.Concerns\bin\Debug\netcoreapp3.0\Survey.Concerns.pdb
+F:\training\Survey Application\SurveyApplication\Survey.Concerns\obj\Debug\netcoreapp3.0\Survey.Concerns.csprojAssemblyReference.cache
+F:\training\Survey Application\SurveyApplication\Survey.Concerns\obj\Debug\netcoreapp3.0\Survey.Concerns.AssemblyInfoInputs.cache
+F:\training\Survey Application\SurveyApplication\Survey.Concerns\obj\Debug\netcoreapp3.0\Survey.Concerns.AssemblyInfo.cs
+F:\training\Survey Application\SurveyApplication\Survey.Concerns\obj\Debug\netcoreapp3.0\Survey.Concerns.dll
+F:\training\Survey Application\SurveyApplication\Survey.Concerns\obj\Debug\netcoreapp3.0\Survey.Concerns.pdb
